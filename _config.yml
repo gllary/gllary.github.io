@@ -20,7 +20,7 @@ webtitle: 'BEST！'
 bio: 'GREAT！'
 about: true
 aboutyou: '做一个团宠小可爱~'
-portraits: '/assets/IMG.jpg' # your portraits image file path
+portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: false
