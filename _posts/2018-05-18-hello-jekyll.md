@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Hello Jekyll'
+date: 2019-06-5
+author: gyx
+color: rgb(255,210,32)
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: blog
+---
+
+> 搭建属于自己的博客 hhh
+
+# 阳光洒满旅途的第一篇博客
+
+## 从CSDN移民
+
+### 233333
+
+Be happy！
+
+### 视频测试
+
+<iframe type="text/html" width="100%" height="385" src="https://v.qq.com/x/page/r0860nr9hpm.html?" frameborder="0"></iframe>
